@@ -1,9 +1,11 @@
-# Global MCMC Modelling of Ganymede's Surface Composition
+# Global Modelling of Ganymede's Surface Composition
 Supplementary material for King & Fletcher (2022):
 
 *Global MCMC Modelling of Ganymede's Surface Composition: Near-IR Mapping from VLT/SPHERE*
 
 Oliver King & Leigh Fletcher
+
+[![DOI](https://zenodo.org/badge/475012230.svg)](https://zenodo.org/badge/latestdoi/475012230)
 
 ## Description
 Files starting with `reflectance_` provide mapped spectral reflectance data for the VLT/SPHERE and Galileo/NIMS datasets used in this study.
